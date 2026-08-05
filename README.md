@@ -145,7 +145,7 @@ export default KTK;
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvintk1&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvintk1&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&hide_private=false&cache=force" />
 
 </div>
 
