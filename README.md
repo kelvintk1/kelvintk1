@@ -107,16 +107,11 @@ export default KTK;
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kelvintk1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=kelvintk1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true" />
 <img height="180" src="https://streak-stats.demolab.com/?user=kelvintk1&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff" />
-
 <br/>
-
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelvintk1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8&card_width=400" />
-
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kelvintk1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=8&card_width=400" />
 </div>
 
 ---
